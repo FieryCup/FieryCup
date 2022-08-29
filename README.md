@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="./FieryCup_big_logo.png" width="1920" alt="Hi, I'm FieryCup"/>
+  <img src="./FieryCup_title_shadow.png" width="1920" alt="Hi, I'm FieryCup"/>
 </div>
 
 <div id="social" align="center">
