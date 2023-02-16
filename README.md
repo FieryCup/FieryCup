@@ -8,7 +8,8 @@
 
 ### Languages
   ![](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=white)
-  ![](https://img.shields.io/badge/-Lua-black?style=for-the-badge&logo=lua&logoColor=white)
+<!--   ![](https://img.shields.io/badge/-Lua-black?style=for-the-badge&logo=lua&logoColor=white) -->
+<!--   ![](https://img.shields.io/badge/-csharp-black?style=for-the-badge&logo=csharp&logoColor=white) -->
 
 
 <!--
