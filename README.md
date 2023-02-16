@@ -5,6 +5,8 @@
 <div id="social" align="center">
   <a href="https://discordapp.com/users/560859915380326422/"><img src=https://img.shields.io/badge/-Discord-black?style=for-the-badge&logo=discord&logoColor=white><a/>
 </div>
+  
+ ---
 
 ### Languages
   ![](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=white)
