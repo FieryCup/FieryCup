@@ -3,8 +3,8 @@
 </div>
 
 <div id="social" align="center">
-  <a href="https://discordapp.com/users/560859915380326422/" target="_blank"><img src=https://img.shields.io/badge/-Discord-black?style=for-the-badge&logo=discord&logoColor=black&color=black&labelColor=EF8843><a/>
-  <a href="https://fierycup.github.io" target="_blank"><img src=https://img.shields.io/badge/-Сайт-black?style=for-the-badge&logo=github&logoColor=black&color=black&labelColor=EF8843><a/>
+  <a href="https://discordapp.com/users/560859915380326422/" target="_blank"><img src=https://img.shields.io/badge/-Discord-black?style=for-the-badge&logo=discord&logoColor=171717&color=171717&labelColor=EF8843><a/>
+  <a href="https://fierycup.github.io" target="_blank"><img src=https://img.shields.io/badge/-Сайт-black?style=for-the-badge&logo=github&logoColor=171717&color=171717&labelColor=EF8843><a/>
 </div>
 
 ### Языки
